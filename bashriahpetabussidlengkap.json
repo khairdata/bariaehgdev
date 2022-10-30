@@ -29,7 +29,7 @@
          "id":1,
          "category":"MAP",
          "title":"Map Bangkalan New",
-         "image":"file:///android_asset/Map Bangkalan V Terbarussss.jpg",
+         "image":"file:///android_asset/MapBangkalanVTerbarussss.jpg",
          "link_mods":"https://archive.org/download/peta-lengkap-2/mod%20map%20bangkalan%20versi%20baru.zip",
          "link_livery":"null"
       },
@@ -37,7 +37,7 @@
          "id":2,
          "category":"MAP",
          "title":"Map Bukit Bintang",
-         "image":"file:///android_asset/Map Bukit Bintangssss.jpg",
+         "image":"file:///android_asset/MapBukitBintangssss.jpg",
          "link_mods":"https://archive.org/download/peta-lengkap-1/Map%20Bukit%20Bintang.bussidmod",
          "link_livery":"null"
       },
@@ -45,7 +45,7 @@
          "id":3,
          "category":"MAP",
          "title":"Map Bukit SiBea-Bea",
-         "image":"file:///android_asset/Map Bukit Si Bea Beassss.jpg",
+         "image":"file:///android_asset/MapBukitSiBeaBeassss.jpg",
          "link_mods":"https://archive.org/download/peta-lengkap-2/mod%20map%20danau%20si%20bea%20bea.bussidmod",
          "link_livery":"null"
       },
@@ -53,7 +53,7 @@
          "id":4,
          "category":"MAP",
          "title":"Map Terparah",
-         "image":"file:///android_asset/Map Bussid V3 7 Jalur Terparahssss.jpg",
+         "image":"file:///android_asset/MapBussidV37JalurTerparahssss.jpg",
          "link_mods":"https://archive.org/download/peta-lengkap-2/mod%20map%20bussid%20v3.7%20jalur%20terparah.bussidmod",
          "link_livery":"null"
       },
@@ -61,7 +61,7 @@
          "id":5,
          "category":"MAP",
          "title":"Map Desa Sederhana",
-         "image":"file:///android_asset/Map Desa Sederhanassss.jpg",
+         "image":"file:///android_asset/MapDesaSederhanassss.jpg",
          "link_mods":"https://archive.org/download/peta-lengkap-1/Map%20Desa%20Sederhana.bussidmod",
          "link_livery":"null"
       },
@@ -69,7 +69,7 @@
          "id":6,
          "category":"MAP",
          "title":"Map Sitinjau Lauik",
-         "image":"file:///android_asset/Map Ekstrim Sitinjau Lauikssss.jpg",
+         "image":"file:///android_asset/MapEkstrimSitinjauLauikssss.jpg",
          "link_mods":"https://archive.org/download/peta-lengkap-2/MOD%20MAP%20Ekstrim%20Sitinjau%20Lauik.bussidmod",
          "link_livery":"null"
       },
@@ -77,7 +77,7 @@
          "id":7,
          "category":"MAP",
          "title":"Map Green Mares",
-         "image":"file:///android_asset/Map Green Marsssss.jpg",
+         "image":"file:///android_asset/MapGreenMarsssss.jpg",
          "link_mods":"https://archive.org/download/peta-lengkap-1/Map%20Green%20Mars.rar",
          "link_livery":"null"
       },
@@ -85,7 +85,7 @@
          "id":8,
          "category":"MAP",
          "title":"Map Hutan Gunung",
-         "image":"file:///android_asset/Map Hutan Gunung Extrimssss.jpg",
+         "image":"file:///android_asset/MapHutanGunungExtrimssss.jpg",
          "link_mods":"https://archive.org/download/peta-lengkap-1/hutan%20gunung.bussidmod",
          "link_livery":"null"
       },
@@ -93,7 +93,7 @@
          "id":9,
          "category":"MAP",
          "title":"Map Jalan Lurus",
-         "image":"file:///android_asset/Map Jalan Lurusssss.jpg",
+         "image":"file:///android_asset/MapJalanLurusssss.jpg",
          "link_mods":"https://archive.org/download/peta-lengkap-1/Map%20Jalan%20Lurus.rar",
          "link_livery":"null"
       },
@@ -101,7 +101,7 @@
          "id":10,
          "category":"MAP",
          "title":"Map Blusukan Bukit",
-         "image":"file:///android_asset/Map Jalur Blusukan di Bukitssss.jpg",
+         "image":"file:///android_asset/MapJalurBlusukandiBukitssss.jpg",
          "link_mods":"https://archive.org/download/peta-lengkap-2/mod%20map%20jalur%20blusukan%20di%20bukit.mod%20map%20bussid%20v3.7.1.zip",
          "link_livery":"null"
       },
@@ -109,7 +109,7 @@
          "id":11,
          "category":"MAP",
          "title":"Map Blusukan v2",
-         "image":"file:///android_asset/Map Jalur Blusukan v2ssss.jpg",
+         "image":"file:///android_asset/MapJalurBlusukanv2ssss.jpg",
          "link_mods":"https://archive.org/download/peta-lengkap-1/Map%20Jalur%20Blusukn%20v2.bussidmod",
          "link_livery":"null"
       },
@@ -117,7 +117,7 @@
          "id":12,
          "category":"MAP",
          "title":"Map Kelok 18",
-         "image":"file:///android_asset/Map Jalur Kelok 18ssss.jpg",
+         "image":"file:///android_asset/MapJalurKelok18ssss.jpg",
          "link_mods":"https://archive.org/download/peta-lengkap-2/mod%20map%20kelok18.bussidmod",
          "link_livery":"null"
       },
@@ -125,7 +125,7 @@
          "id":13,
          "category":"MAP",
          "title":"Map Kelok Naga",
-         "image":"file:///android_asset/Map Jalur Kelok Nagassss.jpg",
+         "image":"file:///android_asset/MapJalurKelokNagassss.jpg",
          "link_mods":"https://archive.org/download/peta-lengkap-1/MAP%20KELOK%20NAGA.bussidmod",
          "link_livery":"null"
       },
@@ -133,7 +133,7 @@
          "id":14,
          "category":"MAP",
          "title":"Map Kelok Offroad",
-         "image":"file:///android_asset/Map Jalur Kelok Offroadssss.jpg",
+         "image":"file:///android_asset/MapJalurKelokOffroadssss.jpg",
          "link_mods":"https://archive.org/download/peta-lengkap-1/KELOK%20OFROAD.bussidmod",
          "link_livery":"null"
       },
@@ -141,7 +141,7 @@
          "id":15,
          "category":"MAP",
          "title":"Map Kelok Ular",
-         "image":"file:///android_asset/Map Jalur Kelok Ularssss.jpg",
+         "image":"file:///android_asset/MapJalurKelokUlarssss.jpg",
          "link_mods":"https://archive.org/download/peta-lengkap-2/MOD%20MAP%20KELOK%20ULAR.bussidmod",
          "link_livery":"null"
       },
@@ -149,7 +149,7 @@
          "id":16,
          "category":"MAP",
          "title":"Map Pinggir Danau",
-         "image":"file:///android_asset/Map Jalur Pinggir Danaussss.jpg",
+         "image":"file:///android_asset/MapJalurPinggirDanaussss.jpg",
          "link_mods":"https://archive.org/download/peta-lengkap-2/mod%20map%20jalur%20danau.bussidmod",
          "link_livery":"null"
       },
@@ -157,7 +157,7 @@
          "id":17,
          "category":"MAP",
          "title":"Map Puncak 1",
-         "image":"file:///android_asset/Map Jalur Puncak v1ssss.jpg",
+         "image":"file:///android_asset/MapJalurPuncakv1ssss.jpg",
          "link_mods":"https://archive.org/download/peta-lengkap-1/jalur%20puncak1.bussidmod",
          "link_livery":"null"
       },
@@ -165,7 +165,7 @@
          "id":18,
          "category":"MAP",
          "title":"Map Puncak 2",
-         "image":"file:///android_asset/Map Jalur Puncakssss.jpg",
+         "image":"file:///android_asset/MapJalurPuncakssss.jpg",
          "link_mods":"https://archive.org/download/peta-lengkap-1/Map%20Jalur%20Puncak.rar",
          "link_livery":"null"
       },
@@ -173,7 +173,7 @@
          "id":19,
          "category":"MAP",
          "title":"Map Tambang",
-         "image":"file:///android_asset/Map Jalur Tambang v2ssss.jpg",
+         "image":"file:///android_asset/MapJalurTambangv2ssss.jpg",
          "link_mods":"https://archive.org/download/peta-lengkap-2/mod%20map%20tambang%20v2.bussidmod",
          "link_livery":"null"
       },
@@ -181,7 +181,7 @@
          "id":20,
          "category":"MAP",
          "title":"Map Tambang v2",
-         "image":"file:///android_asset/Map Jalur Tambangssss.jpg",
+         "image":"file:///android_asset/MapJalurTambangssss.jpg",
          "link_mods":"https://archive.org/download/peta-lengkap-1/map%20jalur%20tambang.bussidmod",
          "link_livery":"null"
       },
@@ -189,7 +189,7 @@
          "id":21,
          "category":"MAP",
          "title":"Map Kab Karawang",
-         "image":"file:///android_asset/Map Kabupaten Karawangssss.jpg",
+         "image":"file:///android_asset/MapKabupatenKarawangssss.jpg",
          "link_mods":"https://archive.org/download/peta-lengkap-2/MOD%20MAPS%20KAB.KARAWANG.bussidmod",
          "link_livery":"null"
       },
@@ -197,7 +197,7 @@
          "id":22,
          "category":"MAP",
          "title":"Map Kelok 44",
-         "image":"file:///android_asset/Map Kelok 44ssss.jpg",
+         "image":"file:///android_asset/MapKelok44ssss.jpg",
          "link_mods":"https://archive.org/download/peta-lengkap-1/Map%20Kelok%2044.rar",
          "link_livery":"null"
       },
@@ -205,7 +205,7 @@
          "id":23,
          "category":"MAP",
          "title":"Map Kota Malang",
-         "image":"file:///android_asset/Map Kota Malangssss.jpg",
+         "image":"file:///android_asset/MapKotaMalangssss.jpg",
          "link_mods":"https://archive.org/download/peta-lengkap-1/map%20malang.bussidmod",
          "link_livery":"null"
       },
@@ -213,7 +213,7 @@
          "id":24,
          "category":"MAP",
          "title":"Map Kota Tangerang 1",
-         "image":"file:///android_asset/Map Kota Tangerang v1ssss.jpg",
+         "image":"file:///android_asset/MapKotaTangerangv1ssss.jpg",
          "link_mods":"https://archive.org/download/peta-lengkap-1/Map%20Kota%20Tangerang%20v1.rar",
          "link_livery":"null"
       },
@@ -221,7 +221,7 @@
          "id":25,
          "category":"MAP",
          "title":"Map Offroad Bangla",
-         "image":"file:///android_asset/Map Offroad Banglassss.jpg",
+         "image":"file:///android_asset/MapOffroadBanglassss.jpg",
          "link_mods":"https://archive.org/download/peta-lengkap-1/main%20100635%20com%20maleo%20bussimulatorid.obb",
          "link_livery":"null"
       },
@@ -229,7 +229,7 @@
          "id":26,
          "category":"MAP",
          "title":"Map Offroad Extreme",
-         "image":"file:///android_asset/Map Offroad Extreme v1 by X Play Kembarssss.jpg",
+         "image":"file:///android_asset/MapOffroadExtremev1byXPlayKembarssss.jpg",
          "link_mods":"https://archive.org/download/peta-lengkap-2/MOD%20Map%20Offroad%20Extreme%20v1%20by%20X%20Play%20Kembar.bussidmod",
          "link_livery":"null"
       },
@@ -237,7 +237,7 @@
          "id":27,
          "category":"MAP",
          "title":"Map Panorama",
-         "image":"file:///android_asset/Map Panorama Bussid 3 7ssss.jpg",
+         "image":"file:///android_asset/MapPanoramaBussid37ssss.jpg",
          "link_mods":"https://archive.org/download/peta-lengkap-1/MAP%20PANORAMA.bussidmod",
          "link_livery":"null"
       },
@@ -245,7 +245,7 @@
          "id":28,
          "category":"MAP",
          "title":"Map Pantai Aliyan",
-         "image":"file:///android_asset/Map Pantai Aliyanssss.jpg",
+         "image":"file:///android_asset/MapPantaiAliyanssss.jpg",
          "link_mods":"https://archive.org/download/peta-lengkap-2/mod%20map%20pantai%20tester%20aliyan%20p.bussidmod",
          "link_livery":"null"
       },
@@ -253,7 +253,7 @@
          "id":29,
          "category":"MAP",
          "title":"Map Pedesaan Kab Karawang",
-         "image":"file:///android_asset/Map Pedesaan Kab Karawangssss.jpg",
+         "image":"file:///android_asset/MapPedesaanKabKarawangssss.jpg",
          "link_mods":"https://archive.org/download/peta-lengkap-2/MOD%20Map%20Pedesaan%20Kab.%20Karawang.bussidmod",
          "link_livery":"null"
       },
@@ -261,7 +261,7 @@
          "id":30,
          "category":"MAP",
          "title":"Map Pelabuhan Merak",
-         "image":"file:///android_asset/Map Pelabuhan Merakssss.jpg",
+         "image":"file:///android_asset/MapPelabuhanMerakssss.jpg",
          "link_mods":"https://archive.org/download/peta-lengkap-2/mod%20Map%20pelabuhan%20merak.bussidmod",
          "link_livery":"null"
       },
@@ -269,7 +269,7 @@
          "id":31,
          "category":"MAP",
          "title":"Map Pinggir Laut",
-         "image":"file:///android_asset/Map Pinggir Lautssss.jpg",
+         "image":"file:///android_asset/MapPinggirLautssss.jpg",
          "link_mods":"https://archive.org/download/peta-lengkap-1/Map%20Pinggir%20Laut.rar",
          "link_livery":"null"
       },
@@ -277,7 +277,7 @@
          "id":32,
          "category":"MAP",
          "title":"Map Rute Jawa",
-         "image":"file:///android_asset/Map Rute Jawassss.jpg",
+         "image":"file:///android_asset/MapRuteJawassss.jpg",
          "link_mods":"https://archive.org/download/peta-lengkap-1/MAP%20RUTE%20JAWA.bussidmod",
          "link_livery":"null"
       },
@@ -285,7 +285,7 @@
          "id":33,
          "category":"MAP",
          "title":"Map Sabang",
-         "image":"file:///android_asset/Map Sabangssss.jpg",
+         "image":"file:///android_asset/MapSabangssss.jpg",
          "link_mods":"https://archive.org/download/peta-lengkap-1/Map%20Sabang%20v1.rar",
          "link_livery":"null"
       },
@@ -293,7 +293,7 @@
          "id":34,
          "category":"MAP",
          "title":"Map Sirkuit",
-         "image":"file:///android_asset/Map Sirkuitssss.jpg",
+         "image":"file:///android_asset/MapSirkuitssss.jpg",
          "link_mods":"https://archive.org/download/peta-lengkap-1/Map%20Sirkuit.rar",
          "link_livery":"null"
       },
@@ -301,7 +301,7 @@
          "id":35,
          "category":"MAP",
          "title":"Map Solo v2",
-         "image":"file:///android_asset/Map Solo v2ssss.jpg",
+         "image":"file:///android_asset/MapSolov2ssss.jpg",
          "link_mods":"https://archive.org/download/peta-lengkap-2/mod%20map%20solo%20v2.zip",
          "link_livery":"null"
       },
@@ -309,7 +309,7 @@
          "id":36,
          "category":"MAP",
          "title":"Map Sumatera Aceh",
-         "image":"file:///android_asset/Map Sumatera Acehssss.jpg",
+         "image":"file:///android_asset/MapSumateraAcehssss.jpg",
          "link_mods":"https://archive.org/download/peta-lengkap-2/Map%20sumatra%20aceh.bussidmod",
          "link_livery":"null"
       },
@@ -317,7 +317,7 @@
          "id":37,
          "category":"MAP",
          "title":"Map Sumatraan",
-         "image":"file:///android_asset/Map Sumatraanssss.jpg",
+         "image":"file:///android_asset/MapSumatraanssss.jpg",
          "link_mods":"https://archive.org/download/peta-lengkap-2/mod%20map%20sumatra.bussidmod",
          "link_livery":"null"
       },
@@ -325,7 +325,7 @@
          "id":38,
          "category":"MAP",
          "title":"Map Tanjakan Sibea Bea",
-         "image":"file:///android_asset/Map Tanjakan Sibea Beassss.jpg",
+         "image":"file:///android_asset/MapTanjakanSibeaBeassss.jpg",
          "link_mods":"https://archive.org/download/peta-lengkap-2/Map%20Tanjakan%20Sibea%20Bea.rar",
          "link_livery":"null"
       },
@@ -333,7 +333,7 @@
          "id":39,
          "category":"MAP",
          "title":"Map Tol Trans Jawa",
-         "image":"file:///android_asset/Map Tol Trans Jawassss.jpg",
+         "image":"file:///android_asset/MapTolTransJawassss.jpg",
          "link_mods":"https://archive.org/download/peta-lengkap-2/Map%20Tol%20Trans%20Jawa.bussidmod",
          "link_livery":"null"
       },
@@ -341,7 +341,7 @@
          "id":40,
          "category":"MAP",
          "title":"Map Update Papua",
-         "image":"file:///android_asset/Map Update Jalur Papuassss.jpg",
+         "image":"file:///android_asset/MapUpdateJalurPapuassss.jpg",
          "link_mods":"https://archive.org/download/peta-lengkap-2/mod%20map%20jalur%20papua%20maut.bussidmod",
          "link_livery":"null"
       }
