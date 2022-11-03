@@ -93,6 +93,96 @@
          "image":"file:///android_asset/Hino555ss.jpg",
          "link_mods":"https://archive.org/download/BusThailand2/%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%9B%E0%B8%A3%E0%B9%8C%E0%B8%97.bussidmod",
          "link_livery":"null"
+      },
+      {
+         "title":"Ghinao Thailand",
+         "image":"file:///android_asset/HinoThailandss.jpg",
+         "link_mods":"https://archive.org/download/BusThailand2/%E0%B9%82%E0%B8%94%E0%B8%A1%E0%B8%B4%E0%B9%80%E0%B8%99%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%A1%E0%B9%88%E0%B8%A7%E0%B8%87%E0%B8%82%E0%B8%99%E0%B8%A1%E0%B8%B0%E0%B8%9E%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%A7.bussidmod",
+         "link_livery":"null"
+      },
+      {
+         "title":"Isyusyu Deca",
+         "image":"file:///android_asset/IsuzuDecass.jpg",
+         "link_mods":"https://archive.org/download/BusThailand2/%E0%B8%A3%E0%B8%96%E0%B8%84%E0%B8%AD%E0%B8%81%E0%B8%9C%E0%B8%B1%E0%B8%81ISUZU360%E0%B8%AA%E0%B8%B5%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%A7%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%88%E0%B8%B1%E0%B8%94.bussidmod",
+         "link_livery":"null"
+      },
+      {
+         "title":"Isyusyu FRR 210",
+         "image":"file:///android_asset/IsuzuFRR210ss.jpg",
+         "link_mods":"https://archive.org/download/BusThailand2/trucks21.bussidmod",
+         "link_livery":"null"
+      },
+      {
+         "title":"Isyusyu FXZ 360",
+         "image":"file:///android_asset/IsuzuFXZ3602ss.jpg",
+         "link_mods":"https://archive.org/download/BusThailand1/isuzu%20fxz%20360%20.bussidmod",
+         "link_livery":"null"
+      },
+      {
+         "title":"Isyusyu FXZ 360 2",
+         "image":"file:///android_asset/IsuzuFXZ360Red01ss.jpg",
+         "link_mods":"https://archive.org/download/BusThailand2/truck%2044.bussidmod",
+         "link_livery":"null"
+      },
+      {
+         "title":"Isyusyu FXZ 360 Red 01",
+         "image":"file:///android_asset/IsuzuFXZ360ss.jpg",
+         "link_mods":"https://archive.org/download/BusThailand1/isuzu_fxz_360_RED01.bussidmod",
+         "link_livery":"null"
+      },
+      {
+         "title":"Mega 500 Green",
+         "image":"file:///android_asset/IsuzuThailookss.jpg",
+         "link_mods":"https://archive.org/download/BusThailand1/isuzu%20thailook.bussidmod",
+         "link_livery":"null"
+      },
+      {
+         "title":"Pick Up Chevo",
+         "image":"file:///android_asset/Mega500Greenss.jpg",
+         "link_mods":"https://archive.org/download/BusThailand1/Hino%20mega%20500green.bussidmod",
+         "link_livery":"null"
+      },
+      {
+         "title":"Thailand Isyusyu MuKs",
+         "image":"file:///android_asset/PickUpChevroletss.jpg",
+         "link_mods":"https://archive.org/download/BusThailand1/Chevrolet%20RPF%20Bass%282%29.bussidmod",
+         "link_livery":"null"
+      },
+      {
+         "title":"Thailand Isyusyu Pink",
+         "image":"file:///android_asset/ThailandIsuzuMu-Xss.jpg",
+         "link_mods":"https://archive.org/download/BusThailand1/cars2v3.bussidmod",
+         "link_livery":"null"
+      },
+      {
+         "title":"Thailand Mobil Bak",
+         "image":"file:///android_asset/ThailandIsuzuPinkss.jpg",
+         "link_mods":"https://archive.org/download/BusThailand1/1.9a%2B%C6%92a%2B%C2%A6a%2B%C3%91a%C2%A6%C3%AEa%2B%C3%ADa%2B%C3%B2a%2B%C2%A6a%2B%C2%BAa%C2%A6%C3%87a%2B%C3%B6a%2B%C2%A6a%2B%C3%B3a%2B%C2%BAa%2B%C2%BDa%2B%C3%96a%C2%A6%C3%ABa%2B%C2%A62019.bussidmod",
+         "link_livery":"null"
+      },
+      {
+         "title":"Truk Gandeng Thailand",
+         "image":"file:///android_asset/ThailandMobilBakss.jpg",
+         "link_mods":"https://archive.org/download/BusThailand2/%E0%B8%A3%E0%B8%96%E0%B8%8B%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B8%94%E0%B8%B1%E0%B9%89%E0%B8%A1%201.9.bussidmod",
+         "link_livery":"null"
+      },
+      {
+         "title":"Truk Thailand Modif",
+         "image":"file:///android_asset/TrukGandengThailandss.jpg",
+         "link_mods":"https://archive.org/download/BusThailand2/truck%20hino3m.bussidmod",
+         "link_livery":"null"
+      },
+      {
+         "title":"Isyusyu Thailook",
+         "image":"file:///android_asset/TrukThailandHino55GandenganHidrolikss.jpg",
+         "link_mods":"https://archive.org/download/BusThailand1/HINO%20truck%2055.bussidmod",
+         "link_livery":"null"
+      },
+      {
+         "title":"Truk Thailand Gandengan Hidrolik",
+         "image":"file:///android_asset/TrukThailandModifikasiss.jpg",
+         "link_mods":"https://archive.org/download/BusThailand2/ounirag.bussidmod",
+         "link_livery":"null"
       }
    ]
 }
