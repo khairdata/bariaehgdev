@@ -1,93 +1,32 @@
-{
-   "Ads":[
-      {
-         "select_main_ads":"IRON",
-         "select_backup_ads":"null",
-         "main_ads_banner":"ca",
-         "main_ads_intertitial":"ca",
-         "main_native_ads_Admob_or_applovin":"",
-         "main_ads_rewards":"",
-         "backup_native_ads_Admob_or_applovin":"",
-         "backup_ads_banner":"",
-         "backup_ads_intertitial":"",
-         "backup_ads_rewards":"",
-         "interval_intertitial":5,
-         "initialize_sdk":"",
-         "initialize_sdk_backup_ads":"",
-         "survey_api_key":"0ba28219-96db-4379-b547-8682187253da",
-         "high_paying_keyword_1":"",
-         "high_paying_keyword_2":"",
-         "high_paying_keyword_3":"",
-         "high_paying_keyword_4":"",
-         "high_paying_keyword_5":"",
-         "status_app":"0",
-         "link_redirect":"https://"
-      }
-   ],
-   "DATA":[
-      {
-         "id":1,
-         "category":"MAP",
-         "title":"Map Bangkalan New",
-         "image":"file:///android_asset/MapBangkalanVTerbaruss.jpg",
-         "link_mods":"https://archive.org/download/peta-lengkap-2/mod%20map%20bangkalan%20versi%20baru.zip",
-         "link_livery":"null"
-      },
-      {
-         "id":2,
-         "category":"MAP",
-         "title":"Map Bukit Bintang",
-         "image":"file:///android_asset/MapBukitBintangss.jpg",
-         "link_mods":"https://archive.org/download/peta-lengkap-1/Map%20Bukit%20Bintang.bussidmod",
-         "link_livery":"null"
-      },
-      {
-         "id":3,
-         "category":"MAP",
-         "title":"Map Bukit SiBea-Bea",
-         "image":"file:///android_asset/MapBukitSiBeaBeass.jpg",
-         "link_mods":"https://archive.org/download/peta-lengkap-2/mod%20map%20danau%20si%20bea%20bea.bussidmod",
-         "link_livery":"null"
-      },
-      {
-         "id":4,
-         "category":"MAP",
-         "title":"Map Terparah",
-         "image":"file:///android_asset/MapBussidV37JalurTerparahss.jpg",
-         "link_mods":"https://archive.org/download/peta-lengkap-2/mod%20map%20bussid%20v3.7%20jalur%20terparah.bussidmod",
-         "link_livery":"null"
-      },
-      {
-         "id":5,
-         "category":"MAP",
-         "title":"Map Desa Sederhana",
-         "image":"file:///android_asset/MapDesaSederhanass.jpg",
-         "link_mods":"https://archive.org/download/peta-lengkap-1/Map%20Desa%20Sederhana.bussidmod",
-         "link_livery":"null"
-      },
-      {
-         "id":6,
-         "category":"MAP",
-         "title":"Map Sitinjau Lauik",
-         "image":"file:///android_asset/MapEkstrimSitinjauLauikss.jpg",
-         "link_mods":"https://archive.org/download/peta-lengkap-2/MOD%20MAP%20Ekstrim%20Sitinjau%20Lauik.bussidmod",
-         "link_livery":"null"
-      },
-      {
-         "id":7,
-         "category":"MAP",
-         "title":"Map Green Mares",
-         "image":"file:///android_asset/MapGreenMarsss.jpg",
-         "link_mods":"https://archive.org/download/peta-lengkap-1/Map%20Green%20Mars.rar",
-         "link_livery":"null"
-      },
-      {
-         "id":8,
-         "category":"MAP",
-         "title":"Map Hutan Gunung",
-         "image":"file:///android_asset/MapHutanGunungExtrimss.jpg",
-         "link_mods":"https://archive.org/download/peta-lengkap-1/hutan%20gunung.bussidmod",
-         "link_livery":"null"
-      }
-   ]
+{  
+
+"Ads": [
+    {
+      "select_main_ads": "IRON",
+      "select_backup_ads":"null",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111x",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712x",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 3,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "url_webiste":"file:///android_asset/web/index.html",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://play.google.com/store/apps/developer?id=Bashriah"
+    }
+  ],
+    "More":
+  [
+    {
+      "title":"",
+      "image":"",
+      "link":""
+    }
+  ]
 }
