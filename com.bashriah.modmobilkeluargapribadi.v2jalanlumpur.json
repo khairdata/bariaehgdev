@@ -1,0 +1,101 @@
+{
+   "Ads":[
+      {
+         "select_main_ads":"IRON",
+         "select_backup_ads":"null",
+         "main_ads_banner":"ca-app-pub-3940256099942544/6300978111x",
+         "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712x",
+         "main_native_ads_Admob_or_applovin":"",
+         "main_ads_rewards":"",
+         "backup_native_ads_Admob_or_applovin":"",
+         "backup_ads_banner":"",
+         "backup_ads_intertitial":"",
+         "backup_ads_rewards":"",
+         "interval_intertitial":1,
+         "initialize_sdk":"",
+         "initialize_sdk_backup_ads":"",
+         "survey_api_key":"e598edaa-e647-4926-9187-e6784c1c1457",
+         "high_paying_keyword_1":"",
+         "high_paying_keyword_2":"",
+         "high_paying_keyword_3":"",
+         "high_paying_keyword_4":"",
+         "high_paying_keyword_5":"",
+         "status_app":"0",
+         "link_redirect":"https://"
+      }
+   ],
+   "DATA":[
+      {
+         "id":1,
+         "category":"LUMPUR",
+         "title":"Mod Berlumpur Nanjak",
+         "image":"file:///android_asset/https://i.imgur.com/XxMxDaO.png",
+         "link_mods":"https://archive.org/download/mod-jalan-berlumpur/Mod%20Map%20Berlumpur%20Nanjak.bussidmod",
+         "link_livery":"null"
+      },
+      {
+         "id":2,
+         "category":"LUMPUR",
+         "title":"Mod Blusukan Becek",
+         "image":"file:///android_asset/https://i.imgur.com/70Qlkft.png",
+         "link_mods":"https://archive.org/download/mod-jalan-berlumpur/Mod%20Map%20Blusukan%20Becek.bussidmod",
+         "link_livery":"null"
+      },
+      {
+         "id":3,
+         "category":"LUMPUR",
+         "title":"Mod Jalur Khusus Offroad",
+         "image":"file:///android_asset/https://i.imgur.com/FG5OAhk.png",
+         "link_mods":"https://archive.org/download/mod-jalan-berlumpur/Mod%20Map%20Jalur%20Khusus%20Offroad.bussidmod",
+         "link_livery":"null"
+      },
+      {
+         "id":4,
+         "category":"LUMPUR",
+         "title":"Mod Kelok 44 Jalan Rusak",
+         "image":"file:///android_asset/https://i.imgur.com/TjgASru.png",
+         "link_mods":"https://archive.org/download/mod-jalan-berlumpur/Mod%20Map%20Kelok%2044%20Jalan%20Rusak.bussidmod",
+         "link_livery":"null"
+      },
+      {
+         "id":5,
+         "category":"LUMPUR",
+         "title":"Mod RoadRoad",
+         "image":"file:///android_asset/https://i.imgur.com/pKJUnxb.png",
+         "link_mods":"https://archive.org/download/mod-jalan-berlumpur/Mod%20Map%20RoadRoad.bussidmod",
+         "link_livery":"null"
+      },
+      {
+         "id":6,
+         "category":"LUMPUR",
+         "title":"Mod Wonosobo Batur",
+         "image":"file:///android_asset/https://i.imgur.com/6Z6tBt8.png",
+         "link_mods":"https://archive.org/download/mod-jalan-berlumpur/Mod%20Map%20Wonosobo%20Batur.zip",
+         "link_livery":"null"
+      },
+      {
+         "id":7,
+         "category":"LUMPUR",
+         "title":"Jalan Berlumpur",
+         "image":"file:///android_asset/https://i.imgur.com/xkpn56X.png",
+         "link_mods":"https://archive.org/download/mod-jalan-berlumpur/KODENAME%20Jalan%20Berlumpur%20V3.6.1.zip/",
+         "link_livery":"null"
+      },
+      {
+         "id":8,
+         "category":"LUMPUR",
+         "title":"Mod Jalan Becek by Aliyan",
+         "image":"file:///android_asset/https://i.imgur.com/pc5nejA.png",
+         "link_mods":"https://archive.org/download/mod-jalan-berlumpur/mod-map-jalan-becek%20by%20Aliyan%20GMP.bussidmod",
+         "link_livery":"null"
+      },
+      {
+         "id":9,
+         "category":"LUMPUR",
+         "title":"Mod Offroad Jalur Parah",
+         "image":"file:///android_asset/https://i.imgur.com/uTCe4US.png",
+         "link_mods":"https://archive.org/download/mod-jalan-berlumpur/Mod%20Map%20Offroad%20Jalur%20Parah%20v3.7%20jalur%20terparah.zip",
+         "link_livery":"null"
+      }
+   ]
+}
